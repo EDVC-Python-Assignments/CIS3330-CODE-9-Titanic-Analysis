@@ -26,6 +26,9 @@ Create a classification model using the following algorithms:
 
 Report for each algorithm the precision and F1 Score.
 
+* Submit all your code in the code repository
+* Submit the results and visualizations of your analysis on a word document in the code repository and blackboard
+
 ## Report reminders
 
 1. Make brief argumentations
